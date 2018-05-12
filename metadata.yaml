@@ -1,0 +1,30 @@
+_repo: Church-and-NationThe-Bishop-Paddock-Lectures-for-1914-15_43896
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43896-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Temple, William
+    birthdate: 1881
+    deathdate: 1944
+    gutenberg_agent_id: '42461'
+    url: http://www.gutenberg.org/2009/agents/42461
+    wikipedia: http://en.wikipedia.org/wiki/William_Temple_%28bishop%29
+description: ''
+gutenberg_issued: '2013-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43896'
+  lccn: '16014113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Church and state'
+title: 'Church and Nation
+
+  The Bishop Paddock Lectures for 1914-15'
+url: http://www.gutenberg.org/ebooks/43896
